@@ -1,1 +1,22 @@
-{"version": "1.7", "url": "https://github.com/rclips-updates/rclips-releases/releases/download/v1.7/Rclips-Setup.exe", "notes": "Re-encode options (ProRes / H.264), MP4 export, drag and drop, new Other card, merge fix."}
+{
+ "version": "1.8",
+ "url": "https://github.com/rclips-updates/rclips-releases/releases/download/v1.8/Rclips-Setup.exe",
+ "notes": "Looks closer for far-away faces after Auto Cut (you can skip it), end credits left out automatically, fixed sudden closing, saved export settings, all languages updated.",
+ "notes_i18n": {
+  "en": "Looks closer for far-away faces after Auto Cut (you can skip it), end credits left out automatically, fixed sudden closing, saved export settings, all languages updated.",
+  "ar": "فحص أدق للوجوه البعيدة بعد القص التلقائي (وتقدر تتخطاه)، التترات تنشال تلقائياً، إصلاح الانقفال المفاجئ، حفظ إعدادات التصدير، وتحديث كل اللغات.",
+  "zh": "自动剪辑后细查远处人脸（可跳过），自动去掉片尾字幕，修复意外关闭，可保存导出设置，所有语言已更新。",
+  "hi": "ऑटो कट के बाद दूर के चेहरों की बारीक जांच (छोड़ सकते हैं), एंड क्रेडिट्स अपने आप हटते हैं, अचानक बंद होना ठीक, एक्सपोर्ट सेटिंग्स सेव, सभी भाषाएं अपडेट।",
+  "es": "Búsqueda detallada de caras lejanas tras el corte automático (se puede saltar), créditos finales quitados automáticamente, cierre inesperado corregido, ajustes de exportación guardados, todos los idiomas actualizados.",
+  "fr": "Recherche approfondie des visages lointains après le découpage auto (facultative), générique de fin retiré automatiquement, fermeture soudaine corrigée, réglages d’export enregistrables, toutes les langues mises à jour.",
+  "pt": "Busca detalhada de rostos distantes após o corte automático (pode pular), créditos finais removidos automaticamente, fechamento repentino corrigido, configurações de exportação salvas, todos os idiomas atualizados.",
+  "ru": "Подробный поиск дальних лиц после автонарезки (можно пропустить), финальные титры убираются автоматически, исправлено внезапное закрытие, сохранение настроек экспорта, все языки обновлены.",
+  "id": "Pencarian teliti wajah jauh setelah Potong Otomatis (bisa dilewati), kredit akhir dibuang otomatis, perbaikan tertutup tiba-tiba, simpan pengaturan ekspor, semua bahasa diperbarui.",
+  "ur": "آٹو کٹ کے بعد دور کے چہروں کی باریک جانچ (چھوڑ سکتے ہیں)، آخری کریڈٹس خود ہٹتے ہیں، اچانک بند ہونا ٹھیک، ایکسپورٹ سیٹنگز محفوظ، تمام زبانیں اپڈیٹ۔",
+  "de": "Genauere Suche nach entfernten Gesichtern nach dem Auto-Schnitt (überspringbar), Abspann wird automatisch weggelassen, plötzliches Schließen behoben, Export-Einstellungen speicherbar, alle Sprachen aktualisiert.",
+  "ja": "自動カット後に遠くの顔を詳しく検出（スキップ可）、エンドクレジットを自動で除外、突然終了する問題を修正、書き出し設定の保存、全言語を更新。",
+  "tr": "Otomatik kesimden sonra uzaktaki yüzler için ayrıntılı arama (atlanabilir), jenerik otomatik çıkarılır, ani kapanma düzeltildi, dışa aktarma ayarları kaydedilebilir, tüm diller güncellendi.",
+  "ko": "자동 컷 후 멀리 있는 얼굴 정밀 검색(건너뛰기 가능), 엔딩 크레딧 자동 제외, 갑자기 종료되는 문제 수정, 내보내기 설정 저장, 모든 언어 업데이트.",
+  "it": "Ricerca accurata dei volti lontani dopo il taglio automatico (si può saltare), titoli di coda esclusi automaticamente, chiusura improvvisa risolta, impostazioni di esportazione salvabili, tutte le lingue aggiornate."
+ }
+}
