@@ -1,22 +1,24 @@
 {
-  "version": "1.9",
-  "url": "https://github.com/rclips-updates/rclips-releases/releases/download/v1.9/Rclips-Setup.exe",
-  "notes": "Sound now plays in After Effects (DTS / AC3 become lossless FLAC), new “Stereo audio for editing” setting so the dialogue is heard, and a short note that explains the closer look.",
+  "version": "2.0",
+  "url": "https://github.com/rclips-updates/rclips-releases/releases/download/v2.0/Rclips-Setup.exe",
+  "notes": "Safer updates: every update is now signed and checked before it installs.",
   "notes_i18n": {
-    "en": "Sound now plays in After Effects (DTS / AC3 become lossless FLAC), new “Stereo audio for editing” setting so the dialogue is heard, and a short note that explains the closer look.",
-    "ar": "الصوت صار يشتغل في After Effects (DTS و AC3 تتحوّل لـ FLAC بدون فقد)، وخيار جديد «صوت ستيريو للمونتاج» عشان يطلع الكلام، وسطر يشرح الفحص الأدق.",
-    "zh": "现在 After Effects 中能播放声音（DTS / AC3 转为无损 FLAC），新增“剪辑用立体声音频”设置让对白可以听到，并加了一句说明细查的提示。",
-    "hi": "अब After Effects में आवाज़ चलती है (DTS / AC3 बिना नुकसान FLAC बनते हैं), नई “एडिटिंग के लिए स्टीरियो ऑडियो” सेटिंग ताकि डायलॉग सुनाई दे, और बारीक जांच को समझाने वाला छोटा नोट।",
-    "es": "El sonido ya se oye en After Effects (DTS / AC3 pasan a FLAC sin pérdida), nuevo ajuste “Audio estéreo para editar” para que se oigan los diálogos, y una nota que explica la búsqueda detallada.",
-    "fr": "Le son est maintenant lu dans After Effects (DTS / AC3 deviennent du FLAC sans perte), nouveau réglage « Audio stéréo pour le montage » pour entendre les dialogues, et une note qui explique la recherche détaillée.",
-    "pt": "O som agora toca no After Effects (DTS / AC3 viram FLAC sem perdas), nova opção “Áudio estéreo para edição” para ouvir os diálogos, e uma nota que explica a busca detalhada.",
-    "ru": "Звук теперь работает в After Effects (DTS / AC3 становятся FLAC без потерь), новая настройка «Стерео звук для монтажа», чтобы были слышны диалоги, и пояснение к подробному поиску.",
-    "id": "Suara kini terdengar di After Effects (DTS / AC3 jadi FLAC lossless), pengaturan baru “Audio stereo untuk editing” agar dialog terdengar, dan catatan singkat yang menjelaskan pencarian detail.",
-    "ur": "اب After Effects میں آواز چلتی ہے (DTS / AC3 بغیر نقصان FLAC بن جاتے ہیں)، نئی ترتیب «ایڈیٹنگ کے لیے سٹیریو آڈیو» تاکہ ڈائیلاگ سنائی دیں، اور تفصیلی تلاش سمجھانے والا مختصر نوٹ۔",
-    "de": "Ton läuft jetzt in After Effects (DTS / AC3 werden verlustfrei zu FLAC), neue Einstellung „Stereo-Ton für den Schnitt“, damit die Dialoge zu hören sind, und ein kurzer Hinweis zur genaueren Suche.",
-    "ja": "After Effects で音声が再生されるようになりました（DTS / AC3 はロスレスの FLAC に変換）。セリフが聞こえる新設定「編集用ステレオ音声」と、詳細チェックを説明する短いメモを追加。",
-    "tr": "Ses artık After Effects'te çalıyor (DTS / AC3 kayıpsız FLAC'a dönüşür), diyaloglar duyulsun diye yeni “Kurgu için stereo ses” ayarı ve ayrıntılı aramayı açıklayan kısa bir not.",
-    "ko": "이제 After Effects에서 소리가 재생됩니다(DTS / AC3는 무손실 FLAC으로 변환). 대사가 들리도록 새 “편집용 스테레오 오디오” 설정과 정밀 검색을 설명하는 짧은 안내를 추가했어요.",
-    "it": "Ora l'audio funziona in After Effects (DTS / AC3 diventano FLAC senza perdita), nuova impostazione “Audio stereo per il montaggio” per sentire i dialoghi, e una breve nota che spiega la ricerca dettagliata."
-  }
+    "en": "Safer updates: every update is now signed and checked before it installs.",
+    "ar": "تحديثات أأمن: كل تحديث صار موقّع ويتفحص قبل ما ينثبّت.",
+    "zh": "更安全的更新：每次更新现在都经过签名，并在安装前进行检查。",
+    "hi": "सुरक्षित अपडेट: हर अपडेट अब साइन किया जाता है और इंस्टॉल से पहले जाँचा जाता है।",
+    "es": "Actualizaciones más seguras: cada actualización ahora está firmada y se comprueba antes de instalarse.",
+    "fr": "Mises à jour plus sûres : chaque mise à jour est désormais signée et vérifiée avant l'installation.",
+    "pt": "Atualizações mais seguras: cada atualização agora é assinada e verificada antes de ser instalada.",
+    "ru": "Более безопасные обновления: каждое обновление теперь подписано и проверяется перед установкой.",
+    "id": "Pembaruan lebih aman: setiap pembaruan kini ditandatangani dan diperiksa sebelum dipasang.",
+    "ur": "زیادہ محفوظ اپڈیٹس: ہر اپڈیٹ اب دستخط شدہ ہے اور انسٹال سے پہلے چیک ہوتی ہے۔",
+    "de": "Sicherere Updates: Jedes Update ist jetzt signiert und wird vor der Installation geprüft.",
+    "ja": "より安全なアップデート：すべてのアップデートに署名が付き、インストール前に確認されます。",
+    "tr": "Daha güvenli güncellemeler: her güncelleme artık imzalı ve yüklenmeden önce kontrol ediliyor.",
+    "ko": "더 안전한 업데이트: 이제 모든 업데이트가 서명되고 설치 전에 확인됩니다.",
+    "it": "Aggiornamenti più sicuri: ogni aggiornamento ora è firmato e verificato prima dell'installazione."
+  },
+  "sha256": "fe592dcff1aa27ccaeac0f576c131fcfe5e28bbf0da3e85442163456e61ae861",
+  "sig": "0b3c06bf72b390130d6e23501af44dfae93eeeec7419386b8ea28b34385aebfe4b6fd16a37b113900e21fab059afe099023da508e4d3ff60e23674896e2e4601"
 }
